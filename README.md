@@ -14,8 +14,11 @@ Então bora lá, DECOLAR 🚀
 
 
 LINKEDIN: https://www.linkedin.com/in/renansantananasc/
+
 INSTAGRAM: https://www.instagram.com/renansantana_n/
+
 MEU PORTFÓLIO: https://renansantana-design.web.app/
+
 CONTATO: 11947064498
 
 VAMOS NOS CONECTAR  ? 👋 
