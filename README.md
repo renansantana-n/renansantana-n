@@ -1,16 +1,21 @@
-### Hi there 👋
+OLÁ, SEJA BEM VINDO AO MEU PERFIL NO GITHUB 🤙🤙
 
-<!--
-**renansantana-n/renansantana-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍️ Estudo na Universidade Federal Rural do Semiárido, cursando BTI com enfâse em Engenharia de Software
 
-Here are some ideas to get you started:
+🖱️ Atualmente sou bolsista de projeto de Pesquisa e extensão, atuando como Líder da equipe de desenvolvimento de software
+  e desenvolvedor Front end (React js), pesquisador e Designer UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atuo também como Desenvolvedor Front end em outro projeto universitário do Laboratório de Inovações em Software - LIS
+
+🤝 Busco avanço profissional, assim como todos né? Haha!
+   Mas sei que com garra e desempenho conseguiremos!
+
+Então bora lá, DECOLAR 🚀
+
+
+LINKEDIN: https://www.linkedin.com/in/renansantananasc/
+INSTAGRAM: https://www.instagram.com/renansantana_n/
+MEU PORTFÓLIO: https://renansantana-design.web.app/
+CONTATO: 11947064498
+
+VAMOS NOS CONECTAR  ? 👋 
