@@ -2,16 +2,14 @@ OLÁ, SEJA BEM VINDO AO MEU PERFIL NO GITHUB 🤙🤙
 
 ✍️ Estudo na Universidade Federal Rural do Semiárido, cursando BTI com enfâse em Engenharia de Software
 
-🖱️ Atualmente sou bolsista de projeto de Pesquisa e extensão, atuando como Líder da equipe de desenvolvimento de software
-  e desenvolvedor Front end (React js), pesquisador e Designer UI
+📲 Atuo como desenvolvedor Front - end no Projeto de Extensão URBIS - UFRN. 
 
-💻 Atuo também como Desenvolvedor Front end em outro projeto universitário do Laboratório de Inovações em Software - LIS
+🖱️ Também sou bolsista de projeto de Pesquisa e extensão, líder da equipe de desenvolvimento de software
+  e desenvolvedor Front end e pesquisador - UFERSA.
 
-🤝 Busco avanço profissional, assim como todos né? Haha!
-   Mas sei que com garra e desempenho conseguiremos!
+💻 Atuo também como Desenvolvedor Front end em outro projeto universitário do Laboratório de Inovações em Software - LIS - UFERSA.
 
-Então bora lá, DECOLAR 🚀
-
+Bora bater um papo, estou por aqui!! 👇
 
 LINKEDIN: https://www.linkedin.com/in/renansantananasc/
 
