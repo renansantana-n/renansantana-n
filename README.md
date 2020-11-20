@@ -12,7 +12,7 @@ INSTAGRAM: https://www.instagram.com/renansantana_n/
 
 MEU PORTFÓLIO: https://renansantana-design.web.app/
 
-https://github-readme-stats.vercel.app/api?username=renansantana-n&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=renansantana-n&layout=compact
 
 
 VAMOS NOS CONECTAR  ? 👋 
