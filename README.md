@@ -4,9 +4,6 @@ OLÁ, SEJA BEM VINDO AO MEU PERFIL NO GITHUB 🤙🤙
 
 📲 Atuo como desenvolvedor Front - end no Projeto de Extensão URBIS - UFRN. 
 
-🖱️ Também sou bolsista de projeto de Pesquisa e extensão, líder da equipe de desenvolvimento de software
-  e desenvolvedor Front end e pesquisador - UFERSA.
-
 💻 Atuo também como Desenvolvedor Front end em outro projeto universitário do Laboratório de Inovações em Software - LIS - UFERSA.
 
 LINKEDIN: https://www.linkedin.com/in/renansantananasc/
