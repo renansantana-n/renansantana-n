@@ -10,7 +10,7 @@ LINKEDIN: https://www.linkedin.com/in/renansantananasc/
 
 INSTAGRAM: https://www.instagram.com/renansantana_n/
 
-MEU PORTFÓLIO: https://renansantana-design.web.app/
+MEU PORTFÓLIO: https://renansantana-n.github.io/renandesign.github.io/
 
 https://github-readme-stats.vercel.app/api?username=renansantana-n&layout=compact
 
